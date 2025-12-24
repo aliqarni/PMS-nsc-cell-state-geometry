@@ -19,7 +19,7 @@ Rather than focusing on clustering or marker genes alone, the analysis examines 
 
 ---
 
-## Methods (Brief)
+## Methods
 
 - Gene filtering and alignment across conditions
 - Shared highly variable gene selection
