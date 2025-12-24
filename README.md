@@ -32,7 +32,7 @@ Rather than focusing on clustering or marker genes alone, the analysis examines 
 
 ---
 
-## Key Finding (High-Level)
+## Key Finding
 
 Disease is associated with extreme and uneven distortion of neural stem cell state space, while treatment induces global compression and reduces pathological extremes without introducing new discrete cell states.
 
