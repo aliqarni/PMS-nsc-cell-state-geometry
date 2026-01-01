@@ -51,7 +51,7 @@ A central goal of this project is to assess whether observed biological conclusi
 - 01_raw_loading_and_QC.ipynb  
   Data loading, quality control, and preprocessing
 
-- PMS_NSC_cell_state_geometry.ipynb  
+- PMS_NSC_geometry_RDM_PCA.ipynb  
   Geometry analysis using PCA-based representations
 
 - cell_state_geometry_across_representations.ipynb  
