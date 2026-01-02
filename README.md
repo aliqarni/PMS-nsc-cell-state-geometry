@@ -44,6 +44,9 @@ A central goal of this project is to assess whether observed biological conclusi
 - Treatment induces *global compression* of cell-state geometry and reduces pathological extremes.
 - Across multiple representation learning methods, *no evidence is observed for the emergence of new discrete cell states*, suggesting that treatment reshapes existing geometry rather than creating novel states.
 
+- ##Geometry metrics across representations
+- ![Cell-state geometry across representations](figures/geometry_dispersion_across_representations.png)
+
 ---
 
 ## Repository Contents
